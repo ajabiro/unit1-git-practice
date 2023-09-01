@@ -189,9 +189,7 @@ rm -r drinks
 ### Step 4
 
  git init
-
  git add .
-
  git commit -m "first commit"
 
 
@@ -202,6 +200,9 @@ git push -u origin main
 
 ### Step 6
 
+git add .
+git commit -m "added a menu"
+git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
